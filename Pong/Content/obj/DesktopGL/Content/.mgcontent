@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Projects/Programming/Simple games/Pong/Pong/Content/graphics/background960x540.png</File>
+    <File>D:/Projects/Programming/Simple games/Pong/Pong/Content/graphics/ball16x16.png</File>
+    <File>D:/Projects/Programming/Simple games/Pong/Pong/Content/graphics/paddle16x64.png</File>
+    <File>D:/Projects/Programming/Simple games/Pong/Pong/Content/graphics/screen_error.png</File>
+    <File>D:/Projects/Programming/Simple games/Pong/Pong/Content/graphics/screen_loading.png</File>
+    <File>D:/Projects/Programming/Simple games/Pong/Pong/Content/graphics/screen_title.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>graphics/ball.png</File>
+    <File>graphics/paddle.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

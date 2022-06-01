@@ -1,0 +1,3 @@
+stage name:Level 1
+bg texture:graphics/background960x540
+score limit:10
